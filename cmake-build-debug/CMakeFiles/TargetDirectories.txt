@@ -1,0 +1,3 @@
+/Barn/Lab/Hamilton_Mechanics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Barn/Lab/Hamilton_Mechanics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Barn/Lab/Hamilton_Mechanics/cmake-build-debug/CMakeFiles/Hamilton_Mechanics.dir
